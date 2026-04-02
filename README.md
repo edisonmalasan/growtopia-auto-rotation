@@ -1,0 +1,1 @@
+# growtopia-auto-rotation
